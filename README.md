@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a young developer from Denmark<br><br>- 🔭 I’m currently working as It Supporter <br>- 📚 I'm currently learning Next JS & Docker<br>- ⚡ In my free time I usually code and do some gaming</p>
+<p align="left">I am a young developer from Denmark who has a great interest in everything within IT. <br/> It can be anything from Frontend / Web or Machine Learning to IT security. <br/> I am always interested in learning about new techs and trying them out! <br><br>- 🔭 I’m currently working as It Supporter <br>- 📚 I'm currently learning Next JS & Docker<br>- ⚡ In my free time I usually code and do some gaming</p>
 
 ###
 
