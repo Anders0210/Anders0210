@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a young developer from Denmark who has a great interest in everything within IT. <br/> It can be anything from Frontend / Web, Machine Learning or IT security. <br/> I am always interested in learning about new techs and trying them out! <br><br>- 🔭 I’m currently working as a It Supporter <br>- 📚 I'm currently learning about NextJS + DevOps <br>- ⚡ In my free time I usually play games and do small projects</p>
+<p align="left">I am a young developer from Denmark who has a great interest in everything within IT. <br/> It can be anything from Frontend / Web, Machine Learning or IT security. <br/> I am always interested in learning about new techs and trying them out! <br><br>- 🔭 I’m currently working as a It Supporter <br>- 📚 I'm currently studiyng at AspIT in Denmark <br>- ⚡ In my free time I usually play games and do small projects</p>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
 </div>
 
 ###
@@ -41,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="25" alt="discord logo"  />
+  <h2>Visit my website: <span>https://ostbit.dev/</span></h2>
 </div>
 
 ###
